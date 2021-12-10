@@ -1,0 +1,47 @@
+body{
+    max-width: 65%;
+    margin: auto;
+}
+
+h1{
+    max-width: 250px;
+    margin: auto;
+}
+
+link{
+    color:yellowgreen
+}
+
+table, th, td {
+    border: 3.5px gray;
+    border-radius: 2%;
+    border-collapse: collapse;
+}
+
+td{
+    border-color: rgb (255, 0, 0);
+    border-style: dotted none;
+}
+
+tr{
+    border-top: 1.5px;
+}
+
+p{
+    margin: 80px 80px
+}
+
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+.changeStyle{
+    font-size: 80px;
+    font-weight: 300px;
+}
+
+.borderClass{
+    border: darkgreen;
+}
